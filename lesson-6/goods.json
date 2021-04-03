@@ -1,0 +1,27 @@
+[
+    {
+        "id": "454545",
+        "title": "Coat",
+        "price": 450
+    },
+    {
+        "id": "3232323",
+        "title": "Shirt",
+        "price": 150
+    },
+    {
+        "id": "3443434",
+        "title": "Socks",
+        "price": 50
+    },
+    {
+        "id": "3445634",
+        "title": "Jacket",
+        "price": 350
+    },
+    {
+        "id": "7845674",
+        "title": "Shoes",
+        "price": 250
+    }
+]
